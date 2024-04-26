@@ -53,7 +53,7 @@ body{
 
 .header-form{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-bottom: 3rem;
 }
 
@@ -188,14 +188,14 @@ body{
 
 @media screen and (max-width:1064px) {
     .container{
-        width: 90%;
+        width: 70%;
         height: auto;
     }
     .input-group{
         flex-direction: column;
         overflow-y: scroll;
         flex-wrap: nowrap;
-        max-height: 10rem;
+        max-height: 12rem;
         padding-right: 5rem;
     }
 
