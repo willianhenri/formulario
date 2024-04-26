@@ -181,6 +181,7 @@ body{
         width: 50%;
     }
     .form{
+        border-radius: 20px;
         width: 100%;
     }
 }
@@ -208,5 +209,8 @@ body{
 
     .gender-title{
         margin-top: 1rem;
+    }
+    .form{
+        border-radius: 20px;
     }
 }
