@@ -172,5 +172,12 @@ h1::after{
     .form{
         width: 100%;
         border-radius: 10px;
+        height: 100%;
     }
+
+    .container{
+        height: 95%;
+        width: 95%;
+    }
+    
 }
